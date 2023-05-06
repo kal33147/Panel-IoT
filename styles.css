@@ -1,0 +1,94 @@
+
+body{
+    background-color: black;
+}
+
+header h1{
+    color: gray;
+    text-align: center;
+    margin-top: 30px;
+    height: 60px;
+}
+
+section{
+    background-color: black;
+    height: 100%;
+    padding: 0 20px;
+}
+
+.p1{
+    background-color: rgb(49, 45, 45);
+    border: 20px solid black;
+    height: 300px;
+}
+.p2{
+    background-color: rgb(49, 45, 45);
+    border: 20px solid black;
+    height: 300px;
+}
+.p3{
+    background-color: rgb(49, 45, 45);
+    border: 20px solid black;
+    height: 300px;
+}
+.p4{
+    background-color: rgb(49, 45, 45);
+    border: 20px solid black;
+    height: 300px;
+}
+.p5{
+    background-color: rgb(49, 45, 45);
+    border: 20px solid black;
+    height: 300px;
+}
+.p6{
+    background-color: rgb(49, 45, 45);
+    border: 20px solid black;
+    height: 300px;
+}
+.mini1 img{
+    width: 200px;
+    height: 200px;
+    margin: 30px 50px;
+}
+.mini2 img{
+    width: 200px;
+    height: 200px;
+    margin: 30px 50px;
+}
+.mini3 img{
+    width: 200px;
+    height: 200px;
+    margin: 30px 70px;
+}
+.mini4 img{
+    width: 200px;
+    height: 200px;
+    margin: 30px 70px;
+}
+.mini5 img{
+    width: 280px;
+    height: 200px;
+    margin: 30px 80px;
+}
+.mini6 img{
+    width: 280px;
+    height: 200px;
+    margin: 30px 90px;
+}
+.mini7 img{
+    width: 280px;
+    height: 200px;
+    margin: 30px 70px;
+}
+
+footer{
+
+    height: 70px;
+    background-color: black;
+}
+footer h6{
+    color: white;
+    margin-top: 15px;
+    text-align: center;
+}
