@@ -15,73 +15,91 @@ section{
     height: 100%;
     padding: 0 20px;
 }
-
+.p1.p2.p3.p4.p5.p6{
+    cursor: pointer;
+}
 .p1{
     background-color: rgb(49, 45, 45);
-    border: 20px solid black;
-    height: 300px;
+    margin: 20px;
+    height: 260px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px ;
 }
 .p2{
     background-color: rgb(49, 45, 45);
-    border: 20px solid black;
-    height: 300px;
+    margin: 20px;
+    height: 260px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px;
 }
 .p3{
     background-color: rgb(49, 45, 45);
-    border: 20px solid black;
-    height: 300px;
+    margin: 20px;
+    height: 260px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px;
 }
 .p4{
     background-color: rgb(49, 45, 45);
-    border: 20px solid black;
-    height: 300px;
+    margin: 20px;
+    height: 260px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px;
 }
 .p5{
     background-color: rgb(49, 45, 45);
-    border: 20px solid black;
-    height: 300px;
+    margin: 20px;
+    height: 260px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px;
 }
 .p6{
     background-color: rgb(49, 45, 45);
-    border: 20px solid black;
-    height: 300px;
+    margin: 20px;
+    height: 260px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px;
 }
 .mini1 img{
     width: 200px;
     height: 200px;
-    margin: 30px 50px;
+    margin: 30px 30px 30px 60px;
 }
 .mini2 img{
     width: 200px;
     height: 200px;
-    margin: 30px 50px;
+    margin: 30px 60px 30px 30px;
 }
 .mini3 img{
     width: 200px;
     height: 200px;
-    margin: 30px 70px;
+    margin: 30px 90px;
 }
 .mini4 img{
     width: 200px;
     height: 200px;
-    margin: 30px 70px;
+    margin: 30px 90px;
 }
 .mini5 img{
-    width: 280px;
+    width: 210px;
     height: 200px;
     margin: 30px 80px;
 }
 .mini6 img{
-    width: 280px;
+    width: 210px;
     height: 200px;
     margin: 30px 90px;
 }
 .mini7 img{
-    width: 280px;
+    width: 200px;
     height: 200px;
-    margin: 30px 70px;
+    margin: 30px 30px 30px 80px;
 }
-
+.mini8 img{
+    width: 200px;
+    height: 200px;
+    margin: 30px 80px 30px 50px;
+}
 footer{
 
     height: 70px;
