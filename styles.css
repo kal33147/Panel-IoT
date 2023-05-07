@@ -15,51 +15,80 @@ section{
     height: 100%;
     padding: 0 20px;
 }
-.p1.p2.p3.p4.p5.p6{
-    cursor: pointer;
-}
+/* ------------------------------------------------ */
 .p1{
     background-color: rgb(49, 45, 45);
     margin: 20px;
     height: 260px;
     border-radius: 20px;
-    box-shadow: 10px 10px 10px ;
+    box-shadow: 8px 8px;
+}
+.p1 div:hover{
+    background-color: black;
+    border-radius: 20px;
+    box-shadow: 10px 10px black;
 }
 .p2{
     background-color: rgb(49, 45, 45);
     margin: 20px;
     height: 260px;
     border-radius: 20px;
-    box-shadow: 10px 10px 10px;
+    box-shadow: 8px 8px;
+}
+.p2 div:hover{
+    background-color: black;
+    border-radius: 20px;
+    box-shadow: 10px 10px black;
 }
 .p3{
     background-color: rgb(49, 45, 45);
     margin: 20px;
     height: 260px;
     border-radius: 20px;
-    box-shadow: 10px 10px 10px;
+    box-shadow: 8px 8px;
+}
+.p3 div:hover{
+    background-color: black;
+    border-radius: 20px;
+    box-shadow: 10px 10px black;
 }
 .p4{
     background-color: rgb(49, 45, 45);
     margin: 20px;
     height: 260px;
     border-radius: 20px;
-    box-shadow: 10px 10px 10px;
+    box-shadow: 8px 8px;
+}
+.p4 div:hover{
+    background-color: black;
+    border-radius: 20px;
+    box-shadow: 10px 10px black;
 }
 .p5{
     background-color: rgb(49, 45, 45);
     margin: 20px;
     height: 260px;
     border-radius: 20px;
-    box-shadow: 10px 10px 10px;
+    box-shadow: 8px 8px;
+}
+.p5 div:hover{
+    background-color: black;
+    border-radius: 20px;
+    box-shadow: 10px 10px black;
 }
 .p6{
     background-color: rgb(49, 45, 45);
     margin: 20px;
     height: 260px;
     border-radius: 20px;
-    box-shadow: 10px 10px 10px;
+    box-shadow: 8px 8px;
 }
+.p6 div:hover{
+    background-color: black;
+    border-radius: 20px;
+    box-shadow: 10px 10px black;
+}
+/* ----------------------divs-------------------------- */
 .mini1 img{
     width: 200px;
     height: 200px;
@@ -68,7 +97,7 @@ section{
 .mini2 img{
     width: 200px;
     height: 200px;
-    margin: 30px 60px 30px 30px;
+    margin: 30px 60px 30px 50px;
 }
 .mini3 img{
     width: 200px;
@@ -100,8 +129,8 @@ section{
     height: 200px;
     margin: 30px 80px 30px 50px;
 }
+/* ------------------------------------------------ */
 footer{
-
     height: 70px;
     background-color: black;
 }
