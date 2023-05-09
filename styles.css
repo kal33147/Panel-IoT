@@ -7,8 +7,7 @@ header h1{
     font-family: 'Bruno Ace', cursive;
     font-size: 50px;
     color: gray;
-    text-align: center;
-    margin: 30px 0 0 50px;
+    margin: 20px 0 0 150px;
     height: 60px;
     text-align: initial;
 }
@@ -16,129 +15,158 @@ header h1{
 section{
     background-color: black;
     height: 100%;
-    padding: 0 20px;
-}
-/* ------------------------------------------------ */
-.p1{
-    background-color: rgb(49, 45, 45);
-    margin: 20px;
-    height: 260px;
-    border-radius: 20px;
-    box-shadow: 8px 8px;
-}
-.p1 div:hover{
-    background-color: black;
-    border-radius: 20px;
-    box-shadow: 10px 10px black;
-}
-.p2{
-    background-color: rgb(49, 45, 45);
-    margin: 20px;
-    height: 260px;
-    border-radius: 20px;
-    box-shadow: 8px 8px;
-}
-.p2 div:hover{
-    background-color: black;
-    border-radius: 20px;
-    box-shadow: 10px 10px black;
-}
-.p3{
-    background-color: rgb(49, 45, 45);
-    margin: 20px;
-    height: 260px;
-    border-radius: 20px;
-    box-shadow: 8px 8px;
-}
-.p3 div:hover{
-    background-color: black;
-    border-radius: 20px;
-    box-shadow: 10px 10px black;
-}
-.p4{
-    background-color: rgb(49, 45, 45);
-    margin: 20px;
-    height: 260px;
-    border-radius: 20px;
-    box-shadow: 8px 8px;
-}
-.p4 div:hover{
-    background-color: black;
-    border-radius: 20px;
-    box-shadow: 10px 10px black;
-}
-.p5{
-    background-color: rgb(49, 45, 45);
-    margin: 20px;
-    height: 260px;
-    border-radius: 20px;
-    box-shadow: 8px 8px;
-}
-.p5 div:hover{
-    background-color: black;
-    border-radius: 20px;
-    box-shadow: 10px 10px black;
-}
-.p6{
-    background-color: rgb(49, 45, 45);
-    margin: 20px;
-    height: 260px;
-    border-radius: 20px;
-    box-shadow: 8px 8px;
-}
-.p6 div:hover{
-    background-color: black;
-    border-radius: 20px;
-    box-shadow: 10px 10px black;
+    padding: 0 200px 0 100px;
 }
 /* ----------------------divs-------------------------- */
+.p0 button{
+    background-color: rgb(49, 45, 45);
+    margin: 20px;
+    height: 260px;
+    border-radius: 20px 0 0 20px;
+    box-shadow: 8px 8px gray;
+}
+.p0 button:hover{
+    background-color: black;
+    border-radius: 20px 0 0 20px;
+    box-shadow: 10px 10px black;
+}
+.p1 button{
+    background-color: rgb(49, 45, 45);
+    margin: 20px;
+    height: 260px;
+    border-radius: 0 20px 20px 0;
+    box-shadow: 8px 8px gray;
+}
+.p1 button:hover{
+    background-color: black;
+    border-radius: 0 20px 20px 0;
+    box-shadow: 10px 10px black;
+}
+/* Taza */
+.p2 button{
+    background-color: rgb(49, 45, 45);
+    margin: 20px 20px 20px 120px;
+    height: 260px;
+    border-radius: 20px;
+    box-shadow: 8px 8px gray;
+}
+.p2 button:hover{
+    background-color: black;
+    border-radius: 20px;
+    box-shadow: 10px 10px black;
+}
+/* Mano */
+.p3 button{
+    background-color: rgb(49, 45, 45);
+    margin: 20px 0 20px 60px;
+    height: 260px;
+    border-radius: 20px;
+    box-shadow: 8px 8px gray;
+}
+.p3 button:hover{
+    background-color: black;
+    border-radius: 20px;
+    box-shadow: 10px 10px black;
+}
+/* Tele */
+.p4 button{
+    background-color: rgb(49, 45, 45);
+    margin: 20px 40px 20px 0;
+    height: 260px;
+    border-radius: 20px;
+    box-shadow: 8px 8px gray;
+}
+.p4 button:hover{
+    background-color: black;
+    border-radius: 20px;
+    box-shadow: 10px 10px black;
+}
+/* Video */
+.p5 button{
+    background-color: rgb(49, 45, 45);
+    margin: 20px;
+    height: 260px;
+    border-radius: 20px;
+    box-shadow: 8px 8px gray;
+}
+.p5 button:hover{
+    background-color: black;
+    border-radius: 20px;
+    box-shadow: 10px 10px black;
+}
+/* Music */
+.p6 button{
+    background-color: rgb(49, 45, 45);
+    margin: 20px;
+    height: 260px;
+    border-radius: 20px 0 0 20px;
+    box-shadow: 8px 8px gray;
+}
+.p6 button:hover{
+    background-color: black;
+    border-radius: 20px 0 0 20px;
+    box-shadow: 10px 10px black;
+}
+.p7 button{
+    background-color: rgb(49, 45, 45);
+    margin: 20px;
+    height: 260px;
+    border-radius: 0 20px 20px 0;
+    box-shadow: 8px 8px gray;
+}
+.p7 button:hover{
+    background-color: black;
+    border-radius: 0 20px 20px 0;
+    box-shadow: 10px 10px black;
+}
+/* ----------------------icons-------------------------- */
 .mini1 img{
     width: 200px;
     height: 200px;
-    margin: 30px 30px 30px 60px;
+    margin: 30px 55px 30px 55px;
 }
 .mini2 img{
     width: 200px;
     height: 200px;
-    margin: 30px 60px 30px 50px;
+    margin: 30px 55px 30px 55px;
 }
 .mini3 img{
     width: 200px;
     height: 200px;
-    margin: 30px 90px;
+    margin: 30px 40px;
 }
 .mini4 img{
     width: 200px;
     height: 200px;
-    margin: 30px 90px;
+    margin: 30px 40px;
 }
 .mini5 img{
-    width: 210px;
+    width: 200px;
     height: 200px;
-    margin: 30px 80px;
+    margin: 30px 40px;
 }
 .mini6 img{
-    width: 210px;
+    width: 200px;
     height: 200px;
-    margin: 30px 90px;
+    margin: 30px 40px;
 }
 .mini7 img{
     width: 200px;
     height: 200px;
-    margin: 30px 30px 30px 80px;
+    margin: 30px 55px 30px 55px;
 }
 .mini8 img{
     width: 200px;
     height: 200px;
-    margin: 30px 80px 30px 50px;
+    margin: 30px 55px 30px 55px;
 }
-/* ------------------------------------------------ */
+/* ----------------------footer-------------------------- */
 footer{
-    height: 70px;
+    height: 50px;
     background-color: black;
 }
 footer h6{
-    color: white;
+    color: gray;
     margin-top: 15px;
     text-align: center;
 }
